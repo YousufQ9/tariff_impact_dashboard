@@ -124,9 +124,3 @@ tariff_impact_dashboard/
 
 ---
 
-
-# Run modelling pipeline
-source("notebooks/01_data_cleaning.R")
-source("notebooks/02_eda_correlation.R")
-source("notebooks/03_arimax_modelling.R")
-```
